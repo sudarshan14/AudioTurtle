@@ -77,7 +77,7 @@ public class ChannelFragment extends Fragment  {
         });
         pDialog = new ProgressDialog(getActivity());
         // Showing progress dialog before making http request
-        pDialog.setMessage("Loading...");
+        pDialog.setMessage("Loading...    ");
         pDialog.show();
         JsonArrayRequest movieReq = new JsonArrayRequest(url,
                 new Response.Listener<JSONArray>() {
