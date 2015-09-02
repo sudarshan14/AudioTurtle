@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ParseDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_latest">Latest</string>
+    <string name="nav_item_subscribrd">Subscribed</string>
+    <string name="nav_item_downloads">Downloaded</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_latest</item>
+        <item>@string/nav_item_subscribrd</item>
+        <item>@string/nav_item_downloads</item>
+    </string-array>
+
+    <string name="title_latest">Latest</string>
+    <string name="title_subscribed_channel">Subscribed</string>
+    <string name="title_Downloaded">Downloaded</string>
+    <string name="inital_Time">0 min, 0 sec</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="title_activity_music_player">MusicPlayerActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_sub_categoryfor_channels">SubCategoryforChannels</string>
+</resources>
